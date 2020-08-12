@@ -1,0 +1,70 @@
+body{
+background-color:#f0f8ff;
+}
+
+.padding1{
+padding-top:90px;
+padding-bottom:70px;
+}
+
+.margin1{
+margin-top:100px;
+}
+
+
+.margin2{
+margin-left:5%;
+margin-right:5%;
+}
+.margin3{
+margin-top:50px;
+}
+.margin4{
+margin-left:5%;
+margin-right:5%;
+margin-top:30px;
+}
+
+.margin5{
+margin-bottom: 60px;
+}
+
+
+.line-height1{
+	line-height:40px;
+}
+
+
+.circle{
+    background-image: url("スライム.jpg");  
+    width: 380px;     
+    height: auto;      
+    border-radius: 50%; 
+    background-position: left top;  /* 横長画像の左上を基準に表示 */
+    display: inline-block;
+    border: 9px solid #7fffd4;
+}
+.resize{
+	background-image: url("キバ.jpg"); 
+	width:  80%; 
+	height: auto;  
+	background-position: left top;
+	display: inline-block;
+	border-radius: 5%; 
+}
+footer{
+    background-color:#f0f8ff;
+    margin-top:10px;
+    text-align:center;
+   
+}
+
+.line-height{
+    line-height:30px;
+}
+small{
+	color: #c0c0c0;
+}
+hr.hr-width1{
+	width: 90%;
+}
